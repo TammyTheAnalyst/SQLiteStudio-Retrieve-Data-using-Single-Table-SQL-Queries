@@ -8,8 +8,8 @@ For this project, I used **SQLiteStudio** to practice retrieving data from a dat
 
 ### Key Concepts I Worked On:
 
-### The SELECT Clause
-In this section, I practiced using the SELECT clause to control which columns are returned from a query. By using this clause, I was able to retrieve specific columns from the database to meet the needs of each query.
+### The SELECT * from Statement
+In this section, I practiced using the SELECT * FROM statement to retrieve all columns and rows from a specified table in the database.
 
 ### The ORDER BY Clause
 I worked on using the ORDER BY clause to rearrange the order of rows in the output returned from a query. This allowed me to organize the data in ascending or descending order based on specific columns.
