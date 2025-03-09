@@ -11,6 +11,9 @@ For this project, I used **SQLiteStudio** to practice retrieving data from a dat
 ### The SELECT * from Statement
 In this section, I practiced using the SELECT * FROM statement to retrieve all columns and rows from a specified table in the database.
 
+### Projection Query
+In this section, I learned about **projection** in SQL. Projection refers to choosing specific columns from a table instead of selecting all columns. This helps focus on the most relevant data.
+
 ### The ORDER BY Clause
 I worked on using the ORDER BY clause to rearrange the order of rows in the output returned from a query. This allowed me to organize the data in ascending or descending order based on specific columns.
 
