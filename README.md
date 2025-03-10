@@ -5,7 +5,7 @@
 
 For this project, I used **SQLiteStudio** to practice retrieving data from a database using single-table SQL queries. I focused on writing queries to control which data was retrieved based on different conditions and requirements. To view a complete list of the exact queries I used: [Single Table SQL Queries](https://github.com/TammyTheAnalyst/SQL-Projects--Retrieve-Data-using-Single-Table-SQL-Queries/blob/main/Retrieve%20Data%20using%20Single-Table%20SQL%20Queries.sql) 
 
-Here are the key concepts I worked on:
+
 
 ### Key Concepts I Worked On:
 
