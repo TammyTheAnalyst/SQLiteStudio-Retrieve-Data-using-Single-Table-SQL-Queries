@@ -1,3 +1,6 @@
+## Certificate of Completion
+![Certificate](screenshot.png)
+
 ## Project: Retrieve Data using Single-Table SQL Queries
 
 For this project, I used **SQLiteStudio** to practice retrieving data from a database using single-table SQL queries. I focused on writing queries to control which data was retrieved based on different conditions and requirements. Here are the key concepts I worked on:
