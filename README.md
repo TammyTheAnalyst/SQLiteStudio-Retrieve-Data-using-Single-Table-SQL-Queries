@@ -1,5 +1,5 @@
 ## Certificate of Completion
-![Certificate](screenshot.png)
+![Certificate](https://github.com/TammyTheAnalyst/SQL-Projects--Retrieve-Data-using-Single-Table-SQL-Queries/blob/main/Screenshot%20(4338).png)
 
 ## Project: Retrieve Data using Single-Table SQL Queries
 
