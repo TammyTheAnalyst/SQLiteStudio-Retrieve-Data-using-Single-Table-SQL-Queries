@@ -9,6 +9,7 @@ For this project, I used **SQLiteStudio** to practice retrieving data from a dat
 
 ### Key Concepts I Worked On:
 
+
 ### The SELECT * from Statement
 In this section, I practiced using the SELECT * FROM statement to retrieve all columns and rows from a specified table in the database.
 
